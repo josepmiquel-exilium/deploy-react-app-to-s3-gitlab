@@ -27,4 +27,5 @@
 4. Go to Identity and Access Management (IAM) in AWS and create new access keys.
 5. Modify the variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY in the .yml file.
 6. Commit and put your changes to the branch master.
-7. It's done! Your site is deployed!
+7. It's done! Your site is deployed and each time you'll push a change to the branch master, the site will be updated automatically!
+8. Enjoy continuous integration! :)
